@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+}
+.titulo{
+    width: 200px;
+    height: 200px;
+}
+header{
+    position: relative;
+}
+.title{
+    position: absolute;
+    top: 75px;
+    left: 400px;
+    font-size: 40px;
+}
+
+.lista-nav li{
+    display: inline;
+    left: 400px;
+    margin-left: 120px;
+    font-style: italic;
+    font-size: large;
+}
+.portada{
+    width: 500px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.parrafo-portada{
+    margin-left: 200px;
+}
+
+.foto-grupo{
+    margin-left: 200px;
+}
+
+
+.redes img{
+    width: 20px;
+    height: 20px;
+}
+
+
+
+.redes{
+    position: relative;
+}
+.derechos{
+    margin-top: 0px;
+    
+}
+
+p{
+    font-size: large;
+}
